@@ -2,6 +2,7 @@
 
 #Script para generar reporte del servidor
 #Taller de Infraestructura Tecnologica
+#Reporte utilizando para monitoreo y automatizacion con cron
 
 DESTINO="/jdelgado633/escuela_rural/sistemas/reportes"
 
